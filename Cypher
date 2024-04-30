@@ -1,0 +1,4 @@
+
+$ python3 mycipher.py 3 < plaintext
+$ python3 mycipher.py 3 < plaintext > cryptedtext
+$ python3 mycipher.py 23 < cryptedtext
